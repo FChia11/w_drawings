@@ -30,7 +30,7 @@ This project performs **image cleaning** and then evaluates the similarity betwe
 
 ## 📦 Requirements
 
-Python 3.x
+Python 3.9+
 
 Required libraries:
 

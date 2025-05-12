@@ -12,13 +12,13 @@ This project performs **image cleaning** and then evaluates the similarity betwe
 
 ## 🚀 Usage
 
-1. Place the original images in the input directory (e.g., `./input/`).
-2. Run the script:
+- Run the script:
 
    ```bash
    python image_cleaning_ssim.py
 
 ## 📦 Requirements
+
 Python 3.x
 
 Required libraries:

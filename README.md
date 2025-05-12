@@ -12,10 +12,21 @@ This project performs **image cleaning** and then evaluates the similarity betwe
 
 ## 🚀 Usage
 
-- Run the script:
+1. Place the original images in your input directory (e.g., `./input/`).
+2. Open the notebook:
 
-   ```bash
-   python image_cleaning_ssim.py
+   image_cleaning_ssim.ipynb
+
+3. Run the cells sequentially in a Jupyter environment like:
+   - Jupyter Notebook / JupyterLab
+   - Google Colab
+   - VS Code with Jupyter support
+
+4. The notebook will:
+   - Load images from an input folder
+   - Clean and process the images
+   - Display before/after visuals
+   - Print SSIM scores
 
 ## 📦 Requirements
 
@@ -23,4 +34,4 @@ Python 3.x
 
 Required libraries:
 
-pip install opencv-python scikit-image numpy
+pip install annoy Pillow matplotlib opencv-python scikit-image numpy

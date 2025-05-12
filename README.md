@@ -7,8 +7,8 @@ This project performs **image cleaning** and then evaluates the similarity betwe
 ## ✨ Features
 
 - 🧼 **Image Cleaning**: Removes noise, normalizes images, or applies custom preprocessing.
-- 🖤 **Grayscale Conversion**: Converts images to grayscale for consistent SSIM computation.
-- 📊 **SSIM Calculation**: Computes SSIM scores to assess similarity between original and cleaned images.
+- 🖤 **Grayscale Conversion**: Converts images to grayscale for SSIM computation.
+- 📊 **SSIM Calculation**: Computes SSIM scores to assess similarity between image pairs.
 
 ## 🚀 Usage
 

@@ -38,7 +38,7 @@ pip install annoy Pillow matplotlib opencv-python scikit-image numpy
 
 ## 📝 License
 
-# Copyright © 2025 Francesca Chiaradia
+**Copyright © 2025 Francesca Chiaradia**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
